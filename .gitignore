@@ -1,0 +1,9 @@
+*
+!data/
+!data/*
+!images/
+!images/*
+!*.ipynb
+!*.pkl
+!.gitignore
+!requirements.txt
